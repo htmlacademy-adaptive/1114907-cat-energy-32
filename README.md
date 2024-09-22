@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Владислав Корончик](https://up.htmlacademy.ru/adaptive/32/user/1114907).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Проект «Кэт энерджи»](https://vladislavkoronchik.github.io/1114907-cat-energy-32).
 
 ---
 
